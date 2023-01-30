@@ -1,0 +1,1 @@
+The purpose of this program is to create a website for a buisness. I want to have a homepage for my trashycleaners webpage.
